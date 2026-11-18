@@ -1,0 +1,2 @@
+19cf61e1103a622363f9c8145d7164c13e869396bf498ebe6569dfbca92148df  SwordOfConvallariaPatcher-v1.3.0-debug.apk
+4ae793ec1dce2accacfc1020e3ac371ca3b2b1b666a67eb8e67d446ce060b7ce  SwordOfConvallariaPatcher-v1.3.0-source.zip
