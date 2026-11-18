@@ -6,9 +6,10 @@
 
 ## Файлы выпуска
 
-- `SwordOfConvallariaPatcher-v1.3.0-debug.apk` — устанавливаемое приложение.
-- `SwordOfConvallariaPatcher-v1.3.0-source.zip` — исходный проект приложения и файлы, нужные для сборки и восстановления оригиналов.
-- `SHA256SUMS.txt` — контрольные суммы APK и архива исходного проекта.
+- [APK — установить приложение](https://github.com/mamka-sobaki/android-russifier-sword-of-convallaria/raw/refs/heads/main/SwordOfConvallariaPatcher-v1.3.0-debug.apk) — `SwordOfConvallariaPatcher-v1.3.0-debug.apk`.
+- [ZIP с исходным проектом](https://github.com/mamka-sobaki/android-russifier-sword-of-convallaria/raw/refs/heads/main/SwordOfConvallariaPatcher-v1.3.0-source.zip) — содержит файлы для сборки и восстановления оригиналов.
+- [SHA256SUMS.txt](SHA256SUMS.txt) — контрольные суммы APK и архива.
+- [Релиз v1.3.0](https://github.com/mamka-sobaki/android-russifier-sword-of-convallaria/releases/tag/v1.3.0).
 
 ## Установка
 
